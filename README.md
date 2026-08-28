@@ -97,7 +97,9 @@ You are free to share and adapt the material for **non-commercial** purposes wit
 
 - Teaching: bilingual (EN/CN) software engineering courses for international students 国际学生双语教学
 - GitHub: [klausren](https://github.com/klausren)
-- Xiaohongshu 小红书: **改卷子的任老师** (ID: `63808230340`) — teaching notes & study tips on Software Engineering and more. 分享软件工程教学笔记与学习干货，欢迎关注！📚
+- Xiaohongshu 小红书: **改卷子的任老师** (ID: `63808230340`) — scan the card below to follow. 扫描下方名片关注，分享软件工程教学笔记与学习干货。📚
+
+<img src="assets/xiaohongshu-card.jpg" alt="改卷子的任老师 Xiaohongshu" width="320"/>
 
 ---
 
