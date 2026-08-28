@@ -4,8 +4,8 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 
 面向国际学生的《软件工程 I》开源课程：16 周 / 32 学时，英文主讲、中文注释，以 SafeHome 智能家居安全系统项目贯穿全学期。
 
-> **Course status** 课程状态：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published progressively — **W01–W02 released, W03–W16 in production.**
-> 课程进行中（2026-2027-1 学期）。课件按周重制并陆续发布——**已发布 W01–W02，W03–W16 制作中。**
+> **Course status** 课程状态：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published progressively — **W01–W03 released, W04–W16 in production.**
+> 课程进行中（2026-2027-1 学期）。课件按周重制并陆续发布——**已发布 W01–W03，W04–W16 制作中。**
 
 ---
 
@@ -32,7 +32,7 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 |---|---|---|
 | 01 | Introduction to Software Engineering 软件工程导论 | [W01](01-slides/W01-Introduction-to-Software-Engineering.pptx) |
 | 02 | Software Process Models 软件开发过程模型 | [W02](01-slides/W02-Software-Process-Models.pptx) |
-| 03 | Agile Development & Scrum 敏捷开发 | in production 制作中 |
+| 03 | Agile Development & Scrum 敏捷开发与 Scrum | [W03](01-slides/W03-Agile-Development-and-Scrum.pptx) |
 | 04 | Requirements Inception & Elicitation 需求启始与获取 | in production 制作中 |
 | 05 | Requirements Gathering & Practice I 需求收集实践 | in production 制作中 |
 | 06 | Requirements Modeling: Business Process 业务流程建模 | in production 制作中 |
@@ -56,7 +56,8 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 ├── 01-slides/                    # Weekly lecture slides (rebuild version) 每周课件（重制版）
 │   ├── W01-Introduction-to-Software-Engineering.pptx
 │   ├── W02-Software-Process-Models.pptx
-│   └── ...                       # W03–W16 coming weekly 每周更新
+│   ├── W03-Agile-Development-and-Scrum.pptx
+│   └── ...                       # W04–W16 coming weekly 每周更新
 ├── 02-teaching-plans/            # Teaching plans & course standard (sanitized) 教案与课标（脱敏版，陆续补充）
 └── 03-project/                   # SafeHome team project description & grading rubric 项目说明与评分
 ```
