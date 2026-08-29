@@ -7,7 +7,7 @@
 
 [![Course](https://img.shields.io/badge/course-16%20weeks%20%7C%2032%20hours-4E29FF)]()
 [![Language](https://img.shields.io/badge/language-English%20%2B%20中文注释-2EA043)]()
-[![Progress](https://img.shields.io/badge/slides%20released-3%2F16-blue)]()
+[![Progress](https://img.shields.io/badge/slides%20released-4%2F16-blue)]()
 [![Update](https://img.shields.io/badge/update-weekly-FF6905?labelColor=555)]()
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-8957E5.svg)](https://github.com/klausren/software-engineering-course/pulls)
@@ -22,8 +22,8 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 
 面向国际学生的《软件工程 I》开源课程：16 周 / 32 学时，英文主讲、中文注释，以 SafeHome 智能家居安全系统项目贯穿全学期。
 
-> **Course status 课程状态**：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published progressively — **W01–W03 released, W04–W16 in production.**
-> 课程进行中（2026-2027-1 学期）。课件按周重制并陆续发布——**已发布 W01–W03，W04–W16 制作中。**
+> **Course status 课程状态**：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published progressively — **W01–W04 released, W05–W16 in production.**
+> 课程进行中（2026-2027-1 学期）。课件按周重制并陆续发布——**已发布 W01–W04，W05–W16 制作中。**
 
 ## 📖 Course Overview 课程简介
 
@@ -50,7 +50,7 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 | 01 | Introduction to Software Engineering 软件工程导论 | ✅ [W01](01-slides/W01-Introduction-to-Software-Engineering.pptx) · 44 pages |
 | 02 | Software Process Models 软件开发过程模型 | ✅ [W02](01-slides/W02-Software-Process-Models.pptx) · 41 pages |
 | 03 | Agile Development & Scrum 敏捷开发与 Scrum | ✅ [W03](01-slides/W03-Agile-Development-and-Scrum.pptx) · 42 pages |
-| 04 | Requirements Inception & Elicitation 需求启始与获取 | 🚧 in production 制作中 |
+| 04 | Requirements Inception & Elicitation 需求启始与获取 | ✅ [W04](01-slides/W04-Requirements-Inception-and-Elicitation.pptx) · 43 pages |
 | 05 | Requirements Gathering & Practice I 需求收集实践 | 🚧 in production 制作中 |
 | 06 | Requirements Modeling: Business Process 业务流程建模 | 🚧 in production 制作中 |
 | 07 | Requirements Modeling: Use Case 用例建模 | 🚧 in production 制作中 |
@@ -87,7 +87,8 @@ See [03-project/SafeHome-项目说明.md](03-project/SafeHome-项目说明.md) f
 │   ├── W01-Introduction-to-Software-Engineering.pptx
 │   ├── W02-Software-Process-Models.pptx
 │   ├── W03-Agile-Development-and-Scrum.pptx
-│   └── ...                       # W04–W16 coming weekly 每周更新
+│   ├── W04-Requirements-Inception-and-Elicitation.pptx
+│   └── ...                       # W05–W16 coming weekly 每周更新
 ├── 02-teaching-plans/            # Teaching plans & course standard (sanitized) 教案与课标（脱敏版，陆续补充）
 ├── 03-project/                   # SafeHome team project description 项目说明
 └── assets/                       # Images used in README 说明用图片
