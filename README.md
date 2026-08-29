@@ -27,6 +27,8 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 
 > 📚 **Companion textbook 配套教材**：An open English textbook covering the full 64-hour SE I + SE II sequence (running case: CareLink) is being written alongside this course — [klausren/oose-textbook](https://github.com/klausren/oose-textbook).
 > 配套英文教材（覆盖 SE I + II 共 64 学时，贯穿案例 CareLink）正在随课程同步编写——[klausren/oose-textbook](https://github.com/klausren/oose-textbook)。
+>
+> *By design 教学设计*：the textbook demonstrates each technique with the original **CareLink** case, while student teams build **SafeHome** — learn from one case, practice on another. 教材用原创案例 CareLink 示范讲解，课程项目用 SafeHome 动手实践——一学一练，学练分离。
 
 ## 📖 Course Overview 课程简介
 
