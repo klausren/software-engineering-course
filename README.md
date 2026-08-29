@@ -25,6 +25,9 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 > **Course status 课程状态**：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published progressively — **W01–W04 released, W05–W16 in production.**
 > 课程进行中（2026-2027-1 学期）。课件按周重制并陆续发布——**已发布 W01–W04，W05–W16 制作中。**
 
+> 📚 **Companion textbook 配套教材**：An open English textbook covering the full 64-hour SE I + SE II sequence (running case: CareLink) is being written alongside this course — [klausren/oose-textbook](https://github.com/klausren/oose-textbook).
+> 配套英文教材（覆盖 SE I + II 共 64 学时，贯穿案例 CareLink）正在随课程同步编写——[klausren/oose-textbook](https://github.com/klausren/oose-textbook)。
+
 ## 📖 Course Overview 课程简介
 
 | Item 项目 | Detail 内容 |
