@@ -12,7 +12,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-8957E5.svg)](https://github.com/klausren/software-engineering-course/pulls)
 
-[Course Overview 课程简介](#-course-overview-课程简介) · [Syllabus 教学大纲](#-weekly-syllabus-教学大纲) · [SafeHome Project 项目实践](#-safehome-project-项目实践) · [Author 作者](#-author-作者)
+[Course Overview 课程简介](#-course-overview-课程简介) · [Syllabus 教学大纲](#-weekly-syllabus-教学大纲) · [SafeHome Project 项目实践](#-safehome-project-项目实践) · [Adoption 采用登记](#-course-adoption-课程采用登记) · [Author 作者](#-author-作者)
 
 </div>
 
@@ -102,6 +102,21 @@ See [03-project/SafeHome-项目说明.md](03-project/SafeHome-项目说明.md) f
 - **For teachers 教师** — You are free to reuse, adapt, and translate the materials for your own classes (non-commercial). 可自由复用、改编、翻译用于教学（非商业）。
 - **For students 学生** — Follow the weekly slides; in-class exercises include answers for self-check. 随周学习课件，练习含答案可自查。
 - **For self-learners 自学者** — Each deck is self-contained: concepts → diagrams → exercises. Recommended pace: one deck per week. 每份课件自成体系，建议每周一份。
+
+## 🏫 Course Adoption 课程采用登记
+
+If you use these slides — in whole or in part — in your own course, please **register your adoption**. A public adoption record sustains the project, helps other teachers find classroom-proven materials, and builds evidence for the future print edition.
+如果您在本校课程中使用（全部或部分）本课件，欢迎登记。公开的采用记录既能帮助项目持续迭代，也能让更多同行找到经过课堂验证的素材，同时为将来的出版积累依据。
+
+**How to register 如何登记**：open an issue with the **Course adoption** template — takes about one minute. 提交一个「课程采用登记」issue（已有现成模板，一分钟搞定）：
+👉 [登记 / Register here](https://github.com/klausren/software-engineering-course/issues/new?template=course-adoption.md)
+
+**Adopters 采用记录**
+
+| Institution 学校 | Course 课程 | Term 学期 | Scope 使用范围 |
+|---|---|---|---|
+| Dalian Neusoft University of Information 大连东软信息学院 | Software Engineering I 软件工程 I | 2026–2027–1 | Full course 全部课件 |
+| *Yours? 你的课程？* | | | |
 
 ## 💬 Feedback & Contribution 反馈与贡献
 
