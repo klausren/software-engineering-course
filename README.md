@@ -12,15 +12,18 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-8957E5.svg)](https://github.com/klausren/software-engineering-course/pulls)
 
-[Course Overview 课程简介](#-course-overview-课程简介) · [Syllabus 教学大纲](#-weekly-syllabus-教学大纲) · [SafeHome Project 项目实践](#-safehome-project-项目实践) · [Adoption 采用登记](#-course-adoption-课程采用登记) · [Author 作者](#-author-作者)
+[Course Overview 课程简介](#-course-overview-课程简介) · [Syllabus 教学大纲](#-weekly-syllabus-教学大纲) · [CampusGuard Project 项目实践](#-campusguard-project-项目实践) · [Adoption 采用登记](#-course-adoption-课程采用登记) · [Author 作者](#-author-作者)
 
 </div>
 
 ---
 
-A complete, bilingual (English-primary with Chinese annotations) open course for **Software Engineering I** — a 16-week, 32-hour undergraduate course for international students, taught with a project-driven approach built around the **SafeHome** home-security system case.
+A complete, bilingual (English-primary with Chinese annotations) open course for **Software Engineering I** — a 16-week, 32-hour undergraduate course for international students, taught with a project-driven approach built around the **CampusGuard** smart campus access &amp; safety case.
 
-面向国际学生的《软件工程 I》开源课程：16 周 / 32 学时，英文主讲、中文注释，以 SafeHome 智能家居安全系统项目贯穿全学期。
+面向国际学生的《软件工程 I》开源课程：16 周 / 32 学时，英文主讲、中文注释，以 CampusGuard 校园智能通行与安防系统项目贯穿全学期。
+
+> 🆕 **2026-09-05 · Case change 案例更换**：The course project has moved from *SafeHome* (the intellectual property of Pressman &amp; Maxim) to **CampusGuard**, an **original case released under CC BY 4.0**. It is structurally isomorphic to SafeHome but set on campus — every modeling exercise keeps its type and difficulty, and students already have intuitions about dormitory access control they can bring to requirements work.
+> 课程项目已由 SafeHome（Pressman &amp; Maxim 的知识产权）更换为**原创案例 CampusGuard**（CC BY 4.0）。两者结构同构、领域错开，所有建模练习的类型与难度完全保留。
 
 > **Course status 课程状态**：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published progressively — **W01–W04 released, W05–W16 in production.**
 > 课程进行中（2026-2027-1 学期）。课件按周重制并陆续发布——**已发布 W01–W04，W05–W16 制作中。**
@@ -28,7 +31,7 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 > 📚 **Companion textbook 配套教材**：An open English textbook covering the full 64-hour SE I + SE II sequence (running case: CareLink) is being written alongside this course — [klausren/oose-textbook](https://github.com/klausren/oose-textbook).
 > 配套英文教材（覆盖 SE I + II 共 64 学时，贯穿案例 CareLink）正在随课程同步编写——[klausren/oose-textbook](https://github.com/klausren/oose-textbook)。
 >
-> *By design 教学设计*：the textbook demonstrates each technique with the original **CareLink** case, while student teams build **SafeHome** — learn from one case, practice on another. 教材用原创案例 CareLink 示范讲解，课程项目用 SafeHome 动手实践——一学一练，学练分离。
+> *By design 教学设计*：the textbook demonstrates each technique with the original **CareLink** case, while student teams build **CampusGuard** — learn from one case, practice on another. 教材用原创案例 CareLink 示范讲解，课程项目用 CampusGuard 动手实践——一学一练，学练分离。
 
 ## 📖 Course Overview 课程简介
 
@@ -39,11 +42,11 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 | Duration 周期 | 16 weeks, 2 hours per week |
 | Language 语言 | English with Chinese annotations 英文主讲、中文注释 |
 | Textbook 参考教材 | R. S. Pressman, *Software Engineering: A Practitioner's Approach* (9th ed.) |
-| Project 项目 | SafeHome — a home security system built by student teams all semester |
+| Project 项目 | CampusGuard — a smart campus access &amp; safety system built by student teams all semester |
 
 **Highlights 教学特色**
 
-- 🔧 **Project-driven 项目驱动** — One semester-long team project (SafeHome); every modeling technique learned in class is immediately applied to the project. 每周所学建模技术即刻应用于团队项目。
+- 🔧 **Project-driven 项目驱动** — One semester-long team project (CampusGuard); every modeling technique learned in class is immediately applied to the project. 每周所学建模技术即刻应用于团队项目。
 - 🌏 **Bilingual 双语** — English-primary slides with concise Chinese annotations to help international students master technical terms. 英文主讲，中文注释辅助术语理解。
 - ✍️ **Hands-on 每课练习** — Each week includes 2–3 in-class exercises with answers. 每周 2–3 个课堂练习（含答案）。
 - 🎨 **Original figures 原创图表** — All diagrams are original vector drawings (no copyrighted textbook images), so the materials are safe to remix. 全部图表为原创矢量图，不含教材原图。
@@ -69,9 +72,13 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 | 15 | User Interface Design 用户界面设计 | 🚧 in production 制作中 |
 | 16 | Architectural Design & Final Defense 架构设计与项目验收答辩 | 🚧 in production 制作中 |
 
-## 🔐 SafeHome Project 项目实践
+## 🔐 CampusGuard Project 项目实践
 
-Students work in **5 teams of 5–6** throughout the semester. Requirements and review follow a **two-track model** 双轨需求与评审机制：
+Students work in **5 teams of 5–6** throughout the semester, building **CampusGuard** — a smart campus access and safety system covering authorised entry, tailgating detection, tiered alerting, visitor passes and device maintenance. The case ships with 20 functional requirements, 8 non-functional requirements and 5 core scenarios.
+
+学生分组完成 **CampusGuard**（校园智能通行与安防系统），覆盖授权通行、尾随检测、分级告警、访客通行码与设备运维。案例含 20 条功能需求、8 条非功能需求与 5 个核心场景。
+
+Requirements and review follow a **two-track model** 双轨需求与评审机制：
 
 | Track 轨道 | Teams 组数 | Requirements 需求来源 | Review 评审 |
 |---|:---:|---|---|
@@ -80,7 +87,7 @@ Students work in **5 teams of 5–6** throughout the semester. Requirements and 
 
 **Review points 评审时点**：requirements gathering (Week 4–5) → modeling phase reviews in class (Week 6–14) → final acceptance & defense (Week 16).
 
-See [03-project/SafeHome-项目说明.md](03-project/SafeHome-项目说明.md) for details. 详见项目说明。
+See [03-project/CampusGuard-Project-Brief.md](03-project/CampusGuard-Project-Brief.md) for the full brief. 详见项目说明。
 
 ## 📂 Repository Structure 目录结构
 
@@ -95,7 +102,7 @@ See [03-project/SafeHome-项目说明.md](03-project/SafeHome-项目说明.md) f
 │   ├── W04-Requirements-Inception-and-Elicitation.pptx
 │   └── ...                       # W05–W16 coming weekly 每周更新
 ├── 02-teaching-plans/            # Teaching plans & course standard (sanitized) 教案与课标（脱敏版，陆续补充）
-├── 03-project/                   # SafeHome team project description 项目说明
+├── 03-project/                   # CampusGuard team project brief (CC BY 4.0) 项目说明
 └── assets/                       # Images used in README 说明用图片
 ```
 
