@@ -14,3 +14,22 @@ Thumbs.db
 
 # Local notes (not for public release)
 *.local.md
+
+# --- Never commit: third-party copyrighted textbooks ---
+03-教材与参考书/
+**/Software Engineering, A Practitioner's Approach*
+**/软件工程：实践者的研究方法*
+**/Object-Oriented.Software.Engineering.Using.UML*
+
+# --- Never commit: student personal data ---
+**/分组名单*
+**/apply-grouping.py
+**/*打分表*.xlsx
+**/*成绩*.xls*
+**/*缺勤*
+**/*学生名单*
+
+# --- Never commit: archived / superseded material ---
+_archive/
+_private/
+03-project/SafeHome-*.md

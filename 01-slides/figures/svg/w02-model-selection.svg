@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 644" font-family="Arial">
+  <rect x="0" y="0" width="960" height="644" fill="#FFFFFF"/>
+  <rect x="20" y="84" width="150" height="34" fill="#E5E7EB" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="32" y="99" font-size="12" fill="#1F2937" font-weight="bold">Model</text>
+  <text x="32" y="113" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">模型</text>
+  <rect x="170" y="84" width="300" height="34" fill="#E5E7EB" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="182" y="99" font-size="12" fill="#1F2937" font-weight="bold">Choose it when</text>
+  <text x="182" y="113" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">什么时候选</text>
+  <rect x="470" y="84" width="280" height="34" fill="#E5E7EB" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="482" y="99" font-size="12" fill="#1F2937" font-weight="bold">Its real cost</text>
+  <text x="482" y="113" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">真实代价</text>
+  <rect x="750" y="84" width="190" height="34" fill="#E5E7EB" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="762" y="99" font-size="12" fill="#1F2937" font-weight="bold">For CareLink</text>
+  <text x="762" y="113" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">CareLink 的选择</text>
+  <rect x="20" y="118" width="150" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="32" y="139.8" font-size="11.5" fill="#1F2937">Waterfall</text>
+  <text x="32" y="155.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">瀑布</text>
+  <rect x="170" y="118" width="300" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="182" y="139.8" font-size="11.5" fill="#1F2937">requirements are stable and fixed by contract</text>
+  <text x="182" y="155.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">需求稳定、由合同固定</text>
+  <rect x="470" y="118" width="280" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="482" y="139.8" font-size="11.5" fill="#1F2937">feedback arrives at the end, when it is dearest</text>
+  <text x="482" y="155.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">反馈在最后才到，代价最高</text>
+  <rect x="750" y="118" width="190" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="762" y="139.8" font-size="11.5" fill="#1F2937">no feedback before week 16</text>
+  <text x="762" y="155.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">16 周前没有反馈</text>
+  <rect x="20" y="200" width="150" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="32" y="221.8" font-size="11.5" fill="#1F2937">V model</text>
+  <text x="32" y="237.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">V 模型</text>
+  <rect x="170" y="200" width="300" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="182" y="221.8" font-size="11.5" fill="#1F2937">test discipline must start at requirements time</text>
+  <text x="182" y="237.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">测试纪律必须从需求阶段开始</text>
+  <rect x="470" y="200" width="280" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="482" y="221.8" font-size="11.5" fill="#1F2937">still a single pass, so late change stays expensive</text>
+  <text x="482" y="237.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">仍是单趟，后期变更依然昂贵</text>
+  <rect x="750" y="200" width="190" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="762" y="221.8" font-size="11.5" fill="#1F2937">the same rigidity remains</text>
+  <text x="762" y="237.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">刚性不变</text>
+  <rect x="20" y="282" width="150" height="82" fill="#DCFCE7" stroke="#2E7D46" stroke-width="1.2"/>
+  <text x="32" y="303.8" font-size="11.5" fill="#1F2937">Incremental</text>
+  <text x="32" y="319.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">增量</text>
+  <rect x="170" y="282" width="300" height="82" fill="#DCFCE7" stroke="#2E7D46" stroke-width="1.2"/>
+  <text x="182" y="303.8" font-size="11.5" fill="#1F2937">the whole is known and delivery can be sliced</text>
+  <text x="182" y="319.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">整体已知，交付可以切块</text>
+  <rect x="470" y="282" width="280" height="82" fill="#DCFCE7" stroke="#2E7D46" stroke-width="1.2"/>
+  <text x="482" y="303.8" font-size="11.5" fill="#1F2937">each increment needs its own plan and demo</text>
+  <text x="482" y="319.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">每个增量都要自己的计划与演示</text>
+  <rect x="750" y="282" width="190" height="82" fill="#DCFCE7" stroke="#2E7D46" stroke-width="1.2"/>
+  <text x="762" y="303.8" font-size="11.5" fill="#1F2937">the chosen backbone</text>
+  <text x="762" y="319.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">选定的主干</text>
+  <rect x="20" y="364" width="150" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="32" y="385.8" font-size="11.5" fill="#1F2937">Prototyping</text>
+  <text x="32" y="401.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">原型</text>
+  <rect x="170" y="364" width="300" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="182" y="385.8" font-size="11.5" fill="#1F2937">the requirements are vague or contested</text>
+  <text x="182" y="401.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">需求模糊或有争议</text>
+  <rect x="470" y="364" width="280" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="482" y="385.8" font-size="11.5" fill="#1F2937">a week-old mock-up gets pressure to ship</text>
+  <text x="482" y="401.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">放了一周的原型会被逼着上线</text>
+  <rect x="750" y="364" width="190" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="762" y="385.8" font-size="11.5" fill="#1F2937">a short loop inside increment 1</text>
+  <text x="762" y="401.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">放在增量 1 里的短循环</text>
+  <rect x="20" y="446" width="150" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="32" y="467.8" font-size="11.5" fill="#1F2937">Spiral</text>
+  <text x="32" y="483.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">螺旋</text>
+  <rect x="170" y="446" width="300" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="182" y="467.8" font-size="11.5" fill="#1F2937">large, high-risk work with a disciplined team</text>
+  <text x="182" y="483.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">大型高风险、团队有纪律</text>
+  <rect x="470" y="446" width="280" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="482" y="467.8" font-size="11.5" fill="#1F2937">quarterly risk reviews cost more than they save</text>
+  <text x="482" y="483.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">季度风险评审的成本高于收益</text>
+  <rect x="750" y="446" width="190" height="82" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.2"/>
+  <text x="762" y="467.8" font-size="11.5" fill="#1F2937">ceremony unmatched to risk</text>
+  <text x="762" y="483.3" font-size="11" fill="#6B7280" font-family="Hiragino Sans GB">仪式与风险不匹配</text>
+  <text x="480" y="562" text-anchor="middle" font-size="13" fill="#6B7280" font-style="italic">The right model is the one whose costs this project can actually afford.</text>
+  <text x="480" y="578" text-anchor="middle" font-size="13" fill="#6B7280" font-weight="normal" font-style="italic">对的模型，是这个项目真正付得起代价的那个。</text>
+  <text x="480" y="622" text-anchor="middle" font-size="11.5" fill="#9CA3AF">Figure after OOSE textbook (CC BY 4.0) · 图据教材重绘</text>
+</svg>

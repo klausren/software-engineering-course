@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 578" font-family="Arial">
+  <rect x="0" y="0" width="960" height="578" fill="#FFFFFF"/>
+  <defs><marker id="arrow14702" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563EB"/></marker></defs>
+  <path d="M110,90 L480,420" fill="none" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow14702)"/>
+  <defs><marker id="arrow80058" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2E7D46"/></marker></defs>
+  <path d="M480,420 L850,90" fill="none" stroke="#2E7D46" stroke-width="3" marker-end="url(#arrow80058)"/>
+  <rect x="81.5" y="108.5" width="168" height="62" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="165.5" y="127.5" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">Requirements</text>
+  <text x="165.5" y="143.5" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">what the user needs</text>
+  <text x="165.5" y="159.5" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">需求</text>
+  <rect x="192.5" y="207.5" width="168" height="62" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="276.5" y="226.5" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">Design</text>
+  <text x="276.5" y="242.5" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">architecture, components</text>
+  <text x="276.5" y="258.5" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">设计</text>
+  <rect x="292.4" y="296.6" width="168" height="62" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="376.4" y="315.6" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">Coding</text>
+  <text x="376.4" y="331.6" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">units implemented</text>
+  <text x="376.4" y="347.6" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">编码</text>
+  <rect x="710.5" y="108.5" width="168" height="62" rx="8" fill="#DCFCE7" stroke="#2E7D46" stroke-width="2.2"/>
+  <text x="794.5" y="127.5" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">Acceptance test</text>
+  <text x="794.5" y="143.5" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">against the requirements</text>
+  <text x="794.5" y="159.5" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">验收测试</text>
+  <rect x="599.5" y="207.5" width="168" height="62" rx="8" fill="#DCFCE7" stroke="#2E7D46" stroke-width="2.2"/>
+  <text x="683.5" y="226.5" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">System test</text>
+  <text x="683.5" y="242.5" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">the product as a whole</text>
+  <text x="683.5" y="258.5" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">系统测试</text>
+  <rect x="499.6" y="296.6" width="168" height="62" rx="8" fill="#DCFCE7" stroke="#2E7D46" stroke-width="2.2"/>
+  <text x="583.6" y="315.6" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">Unit &amp; integration</text>
+  <text x="583.6" y="331.6" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">each unit, then the seams</text>
+  <text x="583.6" y="347.6" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">单元与集成测试</text>
+  <defs><marker id="arrow16395" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker></defs>
+  <path d="M249.5,139.5 L710.5,139.5" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-dasharray="6 5" marker-end="url(#arrow16395)"/>
+  <text x="480.0" y="131.5" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-style="italic">verifies  验证</text>
+  <defs><marker id="arrow87559" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker></defs>
+  <path d="M360.5,238.5 L599.5,238.5" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-dasharray="6 5" marker-end="url(#arrow87559)"/>
+  <text x="480.0" y="230.5" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-style="italic">verifies  验证</text>
+  <text x="34" y="255" text-anchor="middle" font-size="12.5" fill="#2563EB" font-weight="bold" transform="rotate(-90 34 255)">development · 开发</text>
+  <text x="926" y="255" text-anchor="middle" font-size="12.5" fill="#2E7D46" font-weight="bold" transform="rotate(-90 926 255)">testing · 测试</text>
+  <text x="480" y="452" text-anchor="middle" font-size="12.5" fill="#6B7280" font-weight="normal" font-style="italic">the vertex: construction ends, verification begins</text>
+  <text x="480" y="468.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-family="Hiragino Sans GB">顶点：构建结束，验证开始</text>
+  <text x="480" y="496" text-anchor="middle" font-size="13" fill="#6B7280" font-style="italic">The V pairs every artefact on the left with the test written to verify it,</text>
+  <text x="480" y="512" text-anchor="middle" font-size="12" fill="#6B7280" font-weight="normal">so test design starts at requirements time.</text>
+  <text x="480" y="527.5" text-anchor="middle" font-size="11.5" fill="#6B7280" font-family="Hiragino Sans GB">V 模型把左边每个制品与验证它的测试配对，所以测试设计从需求阶段就开始。</text>
+  <text x="480" y="556" text-anchor="middle" font-size="11.5" fill="#9CA3AF">Figure after OOSE textbook (CC BY 4.0) · 图据教材重绘</text>
+</svg>

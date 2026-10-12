@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 518" font-family="Arial">
+  <rect x="0" y="0" width="960" height="518" fill="#FFFFFF"/>
+  <rect x="20" y="96" width="212" height="52" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="126.0" y="115.0" text-anchor="middle" font-size="13" fill="#1F2937" font-weight="bold">HUMAN</text>
+  <text x="126.0" y="131.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">你来</text>
+  <text x="126.0" y="170" text-anchor="middle" font-size="12.5" fill="#1F2937" font-weight="bold">You state the context</text>
+  <text x="126.0" y="190" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal">requirement clarity, volatility, team</text>
+  <text x="126.0" y="205" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal">size, risk level</text>
+  <text x="126.0" y="220" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">需求清晰度、变动性、</text>
+  <text x="126.0" y="234" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">团队规模、风险高低</text>
+  <rect x="256" y="96" width="212" height="52" rx="8" fill="#EDE7F6" stroke="#6D3FA8" stroke-width="2.2"/>
+  <text x="362.0" y="115.0" text-anchor="middle" font-size="13" fill="#1F2937" font-weight="bold">AI</text>
+  <text x="362.0" y="131.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">AI</text>
+  <text x="362.0" y="170" text-anchor="middle" font-size="12.5" fill="#1F2937" font-weight="bold">AI drafts candidates</text>
+  <text x="362.0" y="190" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal">a comparison table and a</text>
+  <text x="362.0" y="205" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal">recommendation, with</text>
+  <text x="362.0" y="220" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal">[ASSUMPTION] flags</text>
+  <text x="362.0" y="235" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">一张对比表和一条建议，并标出 [假设]</text>
+  <defs><marker id="arrow44729" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker></defs>
+  <path d="M235,122 L251,122" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow44729)"/>
+  <rect x="492" y="96" width="212" height="52" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="2.2"/>
+  <text x="598.0" y="115.0" text-anchor="middle" font-size="13" fill="#1F2937" font-weight="bold">CHECK</text>
+  <text x="598.0" y="131.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">你来核对</text>
+  <text x="598.0" y="170" text-anchor="middle" font-size="12.5" fill="#1F2937" font-weight="bold">You cost the ceremony</text>
+  <text x="598.0" y="190" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal">does the model exist, and can this</text>
+  <text x="598.0" y="205" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal">team pay for its rituals</text>
+  <text x="598.0" y="220" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">这个模型真的存在吗？</text>
+  <text x="598.0" y="234" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">团队付得起它的仪式吗</text>
+  <defs><marker id="arrow3985" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker></defs>
+  <path d="M471,122 L487,122" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow3985)"/>
+  <rect x="728" y="96" width="212" height="52" rx="8" fill="#DCFCE7" stroke="#2E7D46" stroke-width="2.2"/>
+  <text x="834.0" y="115.0" text-anchor="middle" font-size="13" fill="#1F2937" font-weight="bold">ARTEFACT</text>
+  <text x="834.0" y="131.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">产出</text>
+  <text x="834.0" y="170" text-anchor="middle" font-size="12.5" fill="#1F2937" font-weight="bold">A choice you can defend</text>
+  <text x="834.0" y="190" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal">the model, the reason, and what</text>
+  <text x="834.0" y="205" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal">would change your mind</text>
+  <text x="834.0" y="220" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">选定的模型、理由，以</text>
+  <text x="834.0" y="234" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">及什么会让你改主意</text>
+  <defs><marker id="arrow28782" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker></defs>
+  <path d="M707,122 L723,122" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow28782)"/>
+  <rect x="20" y="300" width="920" height="96" rx="8" fill="#FEE2E2" stroke="#DC2626" stroke-width="2"/>
+  <text x="44" y="328" text-anchor="start" font-size="12.5" fill="#DC2626" font-weight="bold">What the AI says when you do not cost the ceremony:</text>
+  <text x="44" y="350" text-anchor="start" font-size="13" fill="#1F2937" font-weight="normal" font-style="italic">“Use spiral — it is the most thorough (for a six-person course project)”</text>
+  <text x="44" y="372" text-anchor="start" font-size="12" fill="#DC2626" font-weight="normal">Thorough is not a reason. Six students cannot pay for quarterly risk reviews.</text>
+  <text x="44" y="387.5" text-anchor="start" font-size="11.5" fill="#6B7280" font-family="Hiragino Sans GB">“彻底”不是理由：六个学生付不起季度风险评审的成本。</text>
+  <text x="480" y="436" text-anchor="middle" font-size="13" fill="#6B7280" font-style="italic">Match the model to the risk profile, and write down the reason.</text>
+  <text x="480" y="452" text-anchor="middle" font-size="13" fill="#6B7280" font-weight="normal" font-style="italic">让模型匹配风险画像，并把理由写下来。</text>
+  <text x="480" y="496" text-anchor="middle" font-size="11.5" fill="#9CA3AF">Figure after OOSE textbook (CC BY 4.0) · 图据教材重绘</text>
+</svg>

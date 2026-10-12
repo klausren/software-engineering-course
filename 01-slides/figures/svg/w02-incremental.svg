@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 626" font-family="Arial">
+  <rect x="0" y="0" width="960" height="626" fill="#FFFFFF"/>
+  <rect x="20" y="88" width="210" height="64" rx="8" fill="#CCFBF1" stroke="#0D9488" stroke-width="2.2"/>
+  <text x="125.0" y="107.0" text-anchor="middle" font-size="12.5" fill="#1F2937" font-weight="bold">Increment 1</text>
+  <text x="125.0" y="123.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">core features · 核心功能</text>
+  <text x="125.0" y="139.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">增量 1</text>
+  <rect x="250" y="88" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="314.0" y="107.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Comm</text>
+  <text x="314.0" y="123.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">talk</text>
+  <text x="314.0" y="139.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">沟通</text>
+  <rect x="387" y="88" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="451.0" y="107.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Plan</text>
+  <text x="451.0" y="123.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">estimate</text>
+  <text x="451.0" y="139.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">策划</text>
+  <rect x="524" y="88" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="588.0" y="107.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Model</text>
+  <text x="588.0" y="123.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">design</text>
+  <text x="588.0" y="139.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">建模</text>
+  <rect x="661" y="88" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="725.0" y="107.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Build</text>
+  <text x="725.0" y="123.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">code &amp; test</text>
+  <text x="725.0" y="139.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">构建</text>
+  <rect x="798" y="88" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="862.0" y="107.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Deploy</text>
+  <text x="862.0" y="123.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">deliver</text>
+  <text x="862.0" y="139.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">部署</text>
+  <text x="20" y="180" text-anchor="start" font-size="11.5" fill="#6B7280" font-weight="normal">ships working software: core monitoring</text>
+  <text x="20" y="196" text-anchor="start" font-size="11" fill="#6B7280" font-weight="normal">交付可用软件：核心监测</text>
+  <rect x="20" y="216" width="210" height="64" rx="8" fill="#CCFBF1" stroke="#0D9488" stroke-width="2.2"/>
+  <text x="125.0" y="235.0" text-anchor="middle" font-size="12.5" fill="#1F2937" font-weight="bold">Increment 2</text>
+  <text x="125.0" y="251.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">+ more features · 更多功能</text>
+  <text x="125.0" y="267.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">增量 2</text>
+  <rect x="250" y="216" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="314.0" y="235.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Comm</text>
+  <text x="314.0" y="251.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">talk</text>
+  <text x="314.0" y="267.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">沟通</text>
+  <rect x="387" y="216" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="451.0" y="235.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Plan</text>
+  <text x="451.0" y="251.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">estimate</text>
+  <text x="451.0" y="267.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">策划</text>
+  <rect x="524" y="216" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="588.0" y="235.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Model</text>
+  <text x="588.0" y="251.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">design</text>
+  <text x="588.0" y="267.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">建模</text>
+  <rect x="661" y="216" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="725.0" y="235.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Build</text>
+  <text x="725.0" y="251.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">code &amp; test</text>
+  <text x="725.0" y="267.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">构建</text>
+  <rect x="798" y="216" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="862.0" y="235.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Deploy</text>
+  <text x="862.0" y="251.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">deliver</text>
+  <text x="862.0" y="267.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">部署</text>
+  <text x="20" y="308" text-anchor="start" font-size="11.5" fill="#6B7280" font-weight="normal">ships working software: + alerts</text>
+  <text x="20" y="324" text-anchor="start" font-size="11" fill="#6B7280" font-weight="normal">交付可用软件：+ 告警</text>
+  <rect x="20" y="344" width="210" height="64" rx="8" fill="#CCFBF1" stroke="#0D9488" stroke-width="2.2"/>
+  <text x="125.0" y="363.0" text-anchor="middle" font-size="12.5" fill="#1F2937" font-weight="bold">Increment 3</text>
+  <text x="125.0" y="379.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">full product · 完整产品</text>
+  <text x="125.0" y="395.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">增量 3</text>
+  <rect x="250" y="344" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="314.0" y="363.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Comm</text>
+  <text x="314.0" y="379.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">talk</text>
+  <text x="314.0" y="395.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">沟通</text>
+  <rect x="387" y="344" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="451.0" y="363.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Plan</text>
+  <text x="451.0" y="379.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">estimate</text>
+  <text x="451.0" y="395.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">策划</text>
+  <rect x="524" y="344" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="588.0" y="363.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Model</text>
+  <text x="588.0" y="379.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">design</text>
+  <text x="588.0" y="395.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">建模</text>
+  <rect x="661" y="344" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="725.0" y="363.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Build</text>
+  <text x="725.0" y="379.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">code &amp; test</text>
+  <text x="725.0" y="395.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">构建</text>
+  <rect x="798" y="344" width="128" height="64" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="862.0" y="363.0" text-anchor="middle" font-size="11.5" fill="#1F2937" font-weight="bold">Deploy</text>
+  <text x="862.0" y="379.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">deliver</text>
+  <text x="862.0" y="395.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">部署</text>
+  <text x="20" y="436" text-anchor="start" font-size="11.5" fill="#6B7280" font-weight="normal">ships working software: full product</text>
+  <text x="20" y="452" text-anchor="start" font-size="11" fill="#6B7280" font-weight="normal">交付可用软件：完整产品</text>
+  <text x="480" y="500" text-anchor="middle" font-size="12.5" fill="#6B7280" font-weight="normal" font-style="italic">the whole product is planned up-front — only its delivery is sliced</text>
+  <text x="480" y="516.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-family="Hiragino Sans GB">最终产品一次规划完成，只是交付被切块</text>
+  <text x="480" y="544" text-anchor="middle" font-size="13" fill="#6B7280" font-style="italic">Each increment carries its own plan, design, build and demo, so working</text>
+  <text x="480" y="560" text-anchor="middle" font-size="12" fill="#6B7280" font-weight="normal">software exists from the end of the first increment.</text>
+  <text x="480" y="575.5" text-anchor="middle" font-size="11.5" fill="#6B7280" font-family="Hiragino Sans GB">每个增量都有自己的策划、设计、构建与演示，所以第一个增量结束就有可用软件。</text>
+  <text x="480" y="604" text-anchor="middle" font-size="11.5" fill="#9CA3AF">Figure after OOSE textbook (CC BY 4.0) · 图据教材重绘</text>
+</svg>

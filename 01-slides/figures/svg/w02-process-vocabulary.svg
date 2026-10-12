@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 648" font-family="Arial">
+  <rect x="0" y="0" width="960" height="648" fill="#FFFFFF"/>
+  <rect x="20" y="84" width="920" height="84" rx="8" fill="#CCFBF1" stroke="#0D9488" stroke-width="2.2"/>
+  <text x="480.0" y="103.0" text-anchor="middle" font-size="14" fill="#1F2937" font-weight="bold">Process model</text>
+  <text x="480.0" y="119.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">the ordered arrangement of the five activities for one project</text>
+  <text x="480.0" y="135.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">过程模型</text>
+  <text x="40" y="148" text-anchor="start" font-size="11.5" fill="#6B7280" font-weight="normal">waterfall · V model · incremental · prototyping · spiral · agile</text>
+  <rect x="20" y="190" width="920" height="84" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2.2"/>
+  <text x="480.0" y="209.0" text-anchor="middle" font-size="14" fill="#1F2937" font-weight="bold">Framework activity</text>
+  <text x="480.0" y="225.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">communication · planning · modeling · construction · deployment</text>
+  <text x="480.0" y="241.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">框架活动</text>
+  <text x="40" y="254" text-anchor="start" font-size="11.5" fill="#6B7280" font-weight="normal">the five things every project does, whatever the model</text>
+  <text x="40" y="269.0" text-anchor="start" font-size="11.5" fill="#6B7280" font-family="Hiragino Sans GB">无论用什么模型，每个项目都要做的五件事</text>
+  <rect x="20" y="296" width="920" height="84" rx="8" fill="#EDE7F6" stroke="#6D3FA8" stroke-width="2.2"/>
+  <text x="480.0" y="315.0" text-anchor="middle" font-size="14" fill="#1F2937" font-weight="bold">Process frame</text>
+  <text x="480.0" y="331.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">one activity, described precisely enough to be run and checked</text>
+  <text x="480.0" y="347.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">过程帧</text>
+  <rect x="20" y="396" width="218" height="84" rx="8" fill="#F3F4F6" stroke="#6B7280" stroke-width="2.2"/>
+  <text x="129.0" y="415.0" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">Entry criteria</text>
+  <text x="129.0" y="431.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">what must be true before the work starts</text>
+  <text x="129.0" y="447.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">入口条件</text>
+  <text x="129.0" y="470" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">开始前必须满足的条件</text>
+  <rect x="254" y="396" width="218" height="84" rx="8" fill="#F3F4F6" stroke="#6B7280" stroke-width="2.2"/>
+  <text x="363.0" y="415.0" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">Task set</text>
+  <text x="363.0" y="431.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">the work itself, scaled to fit the activity</text>
+  <text x="363.0" y="447.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">任务集</text>
+  <text x="363.0" y="470" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">要做的工作，按活动规模伸缩</text>
+  <rect x="488" y="396" width="218" height="84" rx="8" fill="#F3F4F6" stroke="#6B7280" stroke-width="2.2"/>
+  <text x="597.0" y="415.0" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">Milestones</text>
+  <text x="597.0" y="431.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">measurable checkpoints along the way</text>
+  <text x="597.0" y="447.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">里程碑</text>
+  <text x="597.0" y="470" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">路上可度量的检查点</text>
+  <rect x="722" y="396" width="218" height="84" rx="8" fill="#F3F4F6" stroke="#6B7280" stroke-width="2.2"/>
+  <text x="831.0" y="415.0" text-anchor="middle" font-size="12" fill="#1F2937" font-weight="bold">Exit criteria</text>
+  <text x="831.0" y="431.0" text-anchor="middle" font-size="10.5" fill="#6B7280" font-weight="normal">what must be true to call the activity done</text>
+  <text x="831.0" y="447.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-weight="normal" font-family="Hiragino Sans GB">出口条件</text>
+  <text x="831.0" y="470" text-anchor="middle" font-size="11" fill="#6B7280" font-weight="normal">判定活动完成的条件</text>
+  <text x="480" y="524" text-anchor="middle" font-size="12.5" fill="#6B7280" font-weight="normal" font-style="italic">“Are we done with design?” really means “have we met the exit criteria?”</text>
+  <text x="480" y="540.0" text-anchor="middle" font-size="11.5" fill="#6B7280" font-family="Hiragino Sans GB">“设计做完了吗？”其实是在问“出口条件满足了吗？”</text>
+  <text x="480" y="566" text-anchor="middle" font-size="13" fill="#6B7280" font-style="italic">Same idea at three scales: the model orders the activities, each activity is a</text>
+  <text x="480" y="582" text-anchor="middle" font-size="12" fill="#6B7280" font-weight="normal">frame, and a frame is only usable when its criteria can be checked.</text>
+  <text x="480" y="597.5" text-anchor="middle" font-size="11.5" fill="#6B7280" font-family="Hiragino Sans GB">同一个概念在三个尺度上：模型排列活动，每个活动是一个过程帧，而过程帧只有在条件可检验时才有用。</text>
+  <text x="480" y="626" text-anchor="middle" font-size="11.5" fill="#9CA3AF">Figure after OOSE textbook (CC BY 4.0) · 图据教材重绘</text>
+</svg>
