@@ -7,7 +7,7 @@
 
 [![Course](https://img.shields.io/badge/course-16%20weeks%20%7C%2032%20hours-4E29FF)]()
 [![Language](https://img.shields.io/badge/language-English%20%2B%20中文注释-2EA043)]()
-[![Progress](https://img.shields.io/badge/slides%20released-9%2F16-blue)]()
+[![Progress](https://img.shields.io/badge/slides%20released-10%2F16-blue)]()
 [![Update](https://img.shields.io/badge/update-weekly-FF6905?labelColor=555)]()
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-8957E5.svg)](https://github.com/klausren/software-engineering-course/pulls)
@@ -28,8 +28,12 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 > **Two cases, two roles 两类案例、两种用途**：**CampusGuard**（smart campus access &amp; safety）is an **original case released under CC BY 4.0** and stays in this repository as the **classroom modelling case** — the exercises in the decks are written against it. **HanPal** is the **student team project** and is not distributed here, because it belongs to the teams that built it. Neither is derived from *SafeHome*, the Pressman &amp; Maxim case, which is not ours to relicense.
 > CampusGuard（校园智能通行与安防）作为 **CC BY 4.0 原创课堂建模案例**保留在本仓库，课件中的建模练习都基于它；HanPal 是**学生团队大作业**，权属归各组，故不在此分发。两者都**不是** Pressman &amp; Maxim 的 SafeHome 的衍生品。
 
-> **Course status 课程状态**：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published after review — **W01–W09 released; W10–W16 in production.**
-> 课程进行中（2026-2027-1 学期）。课件按周重制、经审后发布——**已发布 W01–W09；W10–W16 制作中。**
+> **Course status 课程状态**：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published after review — **W01–W10 released; W11–W16 in production.**
+> 课程进行中（2026-2027-1 学期）。课件按周重制、经审后发布——**已发布 W01–W10；W11–W16 制作中。**
+>
+> **2026-11-02 update（fourth pass）**：**W10 (Domain Model, Part Two)** is now released — the course's first **practice week**, rebuilt from scratch. The previous file was a 55-page Chinese-English mix on the old bank/club cases; the new deck is 30 pages, English-primary, with six diagram pages. It runs the week as three moves: the **modelling relay** (one diagram, four legs, passed between teams, 25 min), the **model review** (milestone review 2 — you attack another team's model and produce a numbered defect list, 35 min), and **deliver & archive** (finalise, glossary, deletion log, commit, 20 min). Six diagram pages: M2's three deliverables and which gate opens today, how the paper moves in the relay, one relay's four legs as they actually happened, what each of the six review questions catches, what a reviewable defect entry looks like broken into its four parts, and how the three files relate to one diagram in the repository.
+>
+> **2026-11-02 更新（第四轮）**：**W10（领域模型（下））已发布**——本课程第一个**实践周**，整周重做。旧版是 55 页中英混排、案例还是「银行储蓄/棋牌馆」；新版 30 页、英文主讲、含 6 页图。全课三件事：**建模接力**（一张图分四棒、组间传递，25′）→ **模型评审会**（里程碑评审 2，拿别人的模型开刀、产出编号缺陷清单，35′）→ **交付与归档**（定稿、术语表、删除记录、提交，20′）。六页图：M2 三份交付物与今天开哪道关 · 接力四棒与时间轴 · 一次接力的实际经过 · 六问清单各抓什么 · **一条合格缺陷条目的四要素拆解** · 三个文件与一张图在仓库里的关系。
 >
 > **2026-11-02 update（third pass）**：W07 gained **nine more pages of worked examples**. The deck now interleaves a rule with a picture that applies it: four ways to write the same use case name (only one passes), forty features reduced to eighteen use cases, role names done right and done wrong, the five classic misuses each with its own miniature diagram, one use case with a main path and three extensions, use case diagram against activity diagram, a team's actual reverse-engineered diagram with its self-review, two teams drawing the same product with different boundaries, and PlantUML source next to what it renders. W07 is now **56 pages with 17 diagram pages — 30% of the deck**.
 >
@@ -82,7 +86,7 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 | 07 | Requirements Modeling: Use Case 用例建模 | ✅ [W07](01-slides/W07-Requirements-Modeling-Use-Case.pptx) · 56 pages |
 | 08 | Requirements Modeling: Use Case Specification 用例规约 | ✅ [W08](01-slides/W08-Requirements-Modeling-Use-Case-Specification.pptx) · 43 pages |
 | 09 | Requirements Modeling: Domain Model 领域模型 | ✅ [W09](01-slides/W09-Requirements-Modeling-Domain-Model.pptx) · 48 pages |
-| 10 | Domain Model (Cont.) 领域模型实践 | 🚧 in production 制作中 |
+| 10 | Domain Model, Part Two 领域模型（下）· 实践周 | ✅ [W10](01-slides/W10-Requirements-Modeling-Domain-Model-Cont.pptx) · 30 pages |
 | 11 | Behavior-Based Modeling 行为建模 | 🚧 in production 制作中 |
 | 12 | Behavior-Based Modeling (Cont.) 行为建模实践 | 🚧 in production 制作中 |
 | 13 | Class-Based Modeling 类建模 | 🚧 in production 制作中 |
@@ -128,7 +132,7 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 │   ├── W07-Requirements-Modeling-Use-Case.pptx
 │   ├── W08-Requirements-Modeling-Use-Case-Specification.pptx
 │   ├── W09-Requirements-Modeling-Domain-Model.pptx
-│   └── ...                       # W10–W16 in production 制作中
+│   └── ...                       # W11–W16 in production 制作中
 ├── 02-teaching-plans/            # Teaching plans & course standard (sanitized) 教案与课标（脱敏版，陆续补充）
 ├── 03-project/                   # CampusGuard classroom case brief (CC BY 4.0) 课堂建模案例说明
 └── assets/                       # Images used in README 说明用图片
