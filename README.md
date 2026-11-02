@@ -31,8 +31,11 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 > **Course status 课程状态**：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published after review — **W01–W09 released; W10–W16 in production.**
 > 课程进行中（2026-2027-1 学期）。课件按周重制、经审后发布——**已发布 W01–W09；W10–W16 制作中。**
 >
-> **2026-11-01 update**：W08 (Use Case Specification 用例规约) and W09 (Domain Model 领域模型) are now released — 43 and 44 pages. W01–W04 were also refreshed: the earlier published versions still carried the **SafeHome** case, which is Pressman & Maxim's IP and therefore not ours to relicense — they now use the original **CampusGuard** case throughout, and the two-track (双轨) project model has been removed.
-> **2026-11-01 更新**：W08（用例规约）、W09（领域模型）已发布，分别为 43 页与 44 页。同时更新了 W01–W04：此前发布的版本仍以 **SafeHome** 为案例，而 SafeHome 是 Pressman & Maxim 的知识产权，不可由我们另行授权；现已全部改为原创的 **CampusGuard** 案例，并移除双轨制项目模型。
+> **2026-11-02 update**：W07 (Use Case 用例建模) and W09 (Domain Model 领域模型) gained **10 pages of UML diagrams** — the reference use case diagram, the actor taxonomy, the system boundary, the three relationships drawn, granularity, and two Bad UML Clinic figures. W09 is now 48 pages, W07 47 pages. Every diagram is built from **native PowerPoint vector shapes**, not images: you can edit the text and drag the shapes directly, and nothing depends on an image file.
+> **2026-11-02 更新**：W07（用例建模）与 W09（领域模型）补入 **10 页 UML 图页**——参考用例图、三类参与者、系统边界、三种关系对照、粒度对比，以及两期坏图诊所图。W09 现 48 页，W07 现 47 页。所有图都是**原生 PPT 矢量形状**而非图片：可直接在 PowerPoint 里改文字、拖形状，也不依赖任何图片文件。
+>
+> **2026-11-01 update**：W08 (Use Case Specification 用例规约) was released — 43 pages. W01–W04 were also refreshed: the earlier published versions still carried the **SafeHome** case, which is Pressman & Maxim's IP and therefore not ours to relicense — they now use the original **CampusGuard** case throughout, and the two-track (双轨) project model has been removed.
+> **2026-11-01 更新**：W08（用例规约）已发布，43 页。同时更新了 W01–W04：此前发布的版本仍以 **SafeHome** 为案例，而 SafeHome 是 Pressman & Maxim 的知识产权，不可由我们另行授权；现已全部改为原创的 **CampusGuard** 案例，并移除双轨制项目模型。
 
 > 📚 **Companion textbook 配套教材**：An open English textbook covering the full 64-hour SE I + SE II sequence (running case: CareLink) is being written alongside this course — [klausren/oose-textbook](https://github.com/klausren/oose-textbook).
 > 配套英文教材（覆盖 SE I + II 共 64 学时，贯穿案例 CareLink）正在随课程同步编写——[klausren/oose-textbook](https://github.com/klausren/oose-textbook)。
@@ -67,9 +70,9 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 | 04 | Requirements Inception & Elicitation 需求启始与获取 | ✅ [W04](01-slides/W04-Requirements-Inception-and-Elicitation.pptx) · 43 pages |
 | 05 | Requirements Gathering & Practice I 需求收集实践 | ✅ [W05](01-slides/W05-Requirements-Gathering-and-Practice-I.pptx) · 41 pages |
 | 06 | Requirements Modeling: Business Process 业务流程建模 | ✅ [W06](01-slides/W06-Requirements-Modeling-Business-Process.pptx) · 40 pages |
-| 07 | Requirements Modeling: Use Case 用例建模 | ✅ [W07](01-slides/W07-Requirements-Modeling-Use-Case.pptx) · 41 pages |
+| 07 | Requirements Modeling: Use Case 用例建模 | ✅ [W07](01-slides/W07-Requirements-Modeling-Use-Case.pptx) · 47 pages |
 | 08 | Requirements Modeling: Use Case Specification 用例规约 | ✅ [W08](01-slides/W08-Requirements-Modeling-Use-Case-Specification.pptx) · 43 pages |
-| 09 | Requirements Modeling: Domain Model 领域模型 | ✅ [W09](01-slides/W09-Requirements-Modeling-Domain-Model.pptx) · 44 pages |
+| 09 | Requirements Modeling: Domain Model 领域模型 | ✅ [W09](01-slides/W09-Requirements-Modeling-Domain-Model.pptx) · 48 pages |
 | 10 | Domain Model (Cont.) 领域模型实践 | 🚧 in production 制作中 |
 | 11 | Behavior-Based Modeling 行为建模 | 🚧 in production 制作中 |
 | 12 | Behavior-Based Modeling (Cont.) 行为建模实践 | 🚧 in production 制作中 |
