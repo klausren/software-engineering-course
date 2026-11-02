@@ -31,6 +31,10 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 > **Course status 课程状态**：Teaching in progress (Semester 2026-2027-1). Slides are rebuilt weekly and published after review — **W01–W09 released; W10–W16 in production.**
 > 课程进行中（2026-2027-1 学期）。课件按周重制、经审后发布——**已发布 W01–W09；W10–W16 制作中。**
 >
+> **2026-11-02 update（third pass）**：W07 gained **nine more pages of worked examples**. The deck now interleaves a rule with a picture that applies it: four ways to write the same use case name (only one passes), forty features reduced to eighteen use cases, role names done right and done wrong, the five classic misuses each with its own miniature diagram, one use case with a main path and three extensions, use case diagram against activity diagram, a team's actual reverse-engineered diagram with its self-review, two teams drawing the same product with different boundaries, and PlantUML source next to what it renders. W07 is now **56 pages with 17 diagram pages — 30% of the deck**.
+>
+> **2026-11-02 更新（第三轮）**：W07 补入 **9 页带具体例子的图**。课件现在遵循「讲完一条规则，紧接着给一页例子」：同一个用例名的四种写法（只有一种及格）、40 个功能收敛成 18 个用例、角色名写对与写错并排、五种经典误用各配一张迷你图、一个用例的主路径加三条扩展路径、用例图与活动图对照、一组真实的反向工程产出与自评缺陷清单、同一产品的两种边界、PlantUML 源码与渲染结果对照。W07 现 **56 页、17 页图（占 30%）**。
+>
 > **2026-11-02 update**：W07 (Use Case 用例建模) and W09 (Domain Model 领域模型) gained **10 pages of UML diagrams** — the reference use case diagram, the actor taxonomy, the system boundary, the three relationships drawn, granularity, and two Bad UML Clinic figures. W09 is now 48 pages, W07 47 pages.
 >
 > The diagrams follow **UML notation exactly**: `include`/`extend` use a **dashed line with an open (V) arrowhead**, generalisation uses a **solid line with a hollow triangle**, associations are solid with **no arrowhead**, and the palette matches the classic textbook rendering (lemon-yellow use cases with a dark-red outline, cream-headed stick figures) so students recognise it from other UML material. Every diagram is built from **native PowerPoint vector shapes**, not images: you can edit the text and drag the shapes directly, and nothing depends on an image file.
@@ -75,7 +79,7 @@ A complete, bilingual (English-primary with Chinese annotations) open course for
 | 04 | Requirements Inception & Elicitation 需求启始与获取 | ✅ [W04](01-slides/W04-Requirements-Inception-and-Elicitation.pptx) · 43 pages |
 | 05 | Requirements Gathering & Practice I 需求收集实践 | ✅ [W05](01-slides/W05-Requirements-Gathering-and-Practice-I.pptx) · 41 pages |
 | 06 | Requirements Modeling: Business Process 业务流程建模 | ✅ [W06](01-slides/W06-Requirements-Modeling-Business-Process.pptx) · 40 pages |
-| 07 | Requirements Modeling: Use Case 用例建模 | ✅ [W07](01-slides/W07-Requirements-Modeling-Use-Case.pptx) · 47 pages |
+| 07 | Requirements Modeling: Use Case 用例建模 | ✅ [W07](01-slides/W07-Requirements-Modeling-Use-Case.pptx) · 56 pages |
 | 08 | Requirements Modeling: Use Case Specification 用例规约 | ✅ [W08](01-slides/W08-Requirements-Modeling-Use-Case-Specification.pptx) · 43 pages |
 | 09 | Requirements Modeling: Domain Model 领域模型 | ✅ [W09](01-slides/W09-Requirements-Modeling-Domain-Model.pptx) · 48 pages |
 | 10 | Domain Model (Cont.) 领域模型实践 | 🚧 in production 制作中 |
